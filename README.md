@@ -5,6 +5,7 @@ Api Requests:
 GET : localhost:8080/api/getallbooks
 
 Resp :
+
 [
     {
         "bid": 1,
